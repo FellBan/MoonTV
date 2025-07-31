@@ -264,7 +264,7 @@
   "custom_category": [
     {
       "name": "恐怖治愈",
-      "type": "movie",
+      "type": "自定义",
       "query": "恐怖治愈"
     }
   ]
