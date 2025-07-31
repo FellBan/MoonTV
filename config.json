@@ -263,3 +263,12 @@
     }
   }
 }
+},
+  "custom_category": [
+    {
+      "name": "恐怖治愈",
+      "type": "movie",
+      "query": "华语"
+    }
+  ]
+}
