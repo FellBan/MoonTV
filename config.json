@@ -37,9 +37,9 @@
       "detail": "https://api.fczy888.me"
     },
     "ryzy": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://rycjapi.tv/api.php/provide/vod",
       "name": "如意资源",
-      "detail": "https://cj.rycjapi.com"
+      "detail": "https://rycjapi.tv"
     },
     "wlyszy": {
       "api": "https://collect.wolongzy.cc/api.php/provide/vod",
